@@ -36,6 +36,8 @@ This project includes:
 - HTML/CSS
 - Gmail DOM manipulation
 
+Live Link- https://microsoftedge.microsoft.com/addons/detail/email-writer-extension/igdongopdnjmiaacihodenadlficdgci?hl=en-US
+
   
 
 ![Screenshot 2025-02-02 154605](https://github.com/user-attachments/assets/5114c9e9-9230-4580-8416-8e26ba57f2a7)
